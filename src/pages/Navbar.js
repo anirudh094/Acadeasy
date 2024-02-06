@@ -4,7 +4,7 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import { Navbar, Nav } from 'rsuite';
 import SearchIcon from '@rsuite/icons/Search';
 import MenuIcon from '@rsuite/icons/Menu';
-import { Drawer, ButtonToolbar, Button, Placeholder } from 'rsuite';
+import { Drawer, ButtonToolbar, Button } from 'rsuite';
 import React from 'react';
 
 function NavbarHeader() {
@@ -23,7 +23,7 @@ function NavbarHeader() {
     <Navbar>
     <Navbar.Brand href="#">
         <div className="logo">
-            <img src="images/favicon.png"></img>
+            <img src="images/favicon.png"  alt="logo"></img>
         </div>
     </Navbar.Brand>
     <Nav className='menu-top-bar'>

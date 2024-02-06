@@ -975,7 +975,7 @@ const ContactUs = () => {
                     <img
                       src="https://cdn.tuk.dev/assets/components/26May-update/avatar-1.png"
                       alt="Display Avatar of Anna Smith"
-                      role="img"
+                      
                     />
                   </div>
                 </div>
@@ -996,7 +996,7 @@ const ContactUs = () => {
                     <img
                       src="https://cdn.tuk.dev/assets/components/26May-update/avatar-2.png"
                       alt="Display avatar of Dany John"
-                      role="img"
+                      
                     />
                   </div>
                 </div>

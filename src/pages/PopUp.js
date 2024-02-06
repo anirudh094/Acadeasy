@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import "../css/PopUp.css";
 import { RxCross2 } from "react-icons/rx";
 

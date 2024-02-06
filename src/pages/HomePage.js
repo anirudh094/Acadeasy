@@ -1,5 +1,4 @@
 import React from "react";
-import Carousel from "react-bootstrap/Carousel";
 import Container from "react-bootstrap/esm/Container";
 import "../css/home.css";
 
@@ -15,7 +14,7 @@ export default function HomePage() {
             <div className="fixed-heading">Learn today for better tomorrow</div> 
             <button className="banner-btn main-color-bg">View More</button>
         </div>
-        <img src="images/image1.jpg"/>
+        <img src="images/image1.jpg" alt="logo"/>
       </div>
 
       <Container>
